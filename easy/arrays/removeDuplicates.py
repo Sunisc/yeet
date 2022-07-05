@@ -2,8 +2,6 @@
 # https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/
 
 from collections import OrderedDict
-import enum
-
 class Solution:
     # one pointer to keep track of unique and another pointer to skip through dupes
     def removeDuplicates(self, nums: list):
