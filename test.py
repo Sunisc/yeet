@@ -4,4 +4,4 @@ def func(nums):
 
 nums = [0,0,1,1,2,2]
 
-func(nums)
+print(2.0 & 2.0)
